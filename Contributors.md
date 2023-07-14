@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Hudson Amorim](https://github.com/Hudson-engsoftware)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
